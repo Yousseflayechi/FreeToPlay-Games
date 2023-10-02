@@ -1,5 +1,3 @@
-Certainly, here's a simple README for your project:
-
 # FreeToPlay Games API Scraper
 
 This Python project is a basic script that interacts with the FreeToGame API to retrieve information about free-to-play games and randomly selects and displays a game title from the fetched data based on a chosen platform.
