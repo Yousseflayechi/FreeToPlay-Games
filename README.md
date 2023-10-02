@@ -9,7 +9,7 @@ To run this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/FreeToPlay-Games-API-Scraper.git
+   git clone https://github.com/Yousseflayechi/FreeToPlay-Games-API-Scraper.git
    ```
 
 2. Change to the project directory:
@@ -59,9 +59,6 @@ url = "https://www.freetogame.com/api/games?platform="
 - Python 3.x
 - `requests` library
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
